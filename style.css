@@ -1,0 +1,19 @@
+/*
+    Theme Name: DS Blog Theme
+    Theme URI: http://www.diversityschool.org/
+    Description: Theme for Diversity School blog.
+    Author: Diversity School
+    Author URI: http://www.diversityschool.org/
+    Version: 1.0
+    Tags: responsive, bootstrap, diveristy, org
+
+    License: Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)
+    License URI: http://creativecommons.org/licenses/by-sa/3.0/
+
+    Planet Org theme.
+*/
+
+@import url('https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css');
+@import url('css/font.css');
+@import url('css/style.css');
+@import url('https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css');
