@@ -31,6 +31,7 @@ if (!function_exists('dspc_setup')) :
 		add_theme_support( 'html5', array(
 			'search-form', 'comment-form', 'comment-list', 'gallery', 'caption'
 		));
+		remove_theme_support('html5', 'comment-form');
 		
 		//Enable support for custom logo.
 		add_theme_support('custom-logo', array(
